@@ -45,11 +45,6 @@ As a statistics graduate with a passion for technology, I love creating **data-d
 - Serverless and cloud solutions
 - Open source projects
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhatsayat&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatsayat&layout=compact&theme=radical)
-
 ## 📫 Get In Touch
 
 - 💼 LinkedIn: [linkedin.com/in/sayats](https://linkedin.com/in/sayats)
